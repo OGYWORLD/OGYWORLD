@@ -1,6 +1,8 @@
 🥔Kangwon National University, Undergraduate
 
-🧬Bioinformatics - Drug generation
+🦅Yonsei University, Graduate student working in a DElab
+
+🧬Bioinformatics - Drug Selectivity Prediction
 
 🖋 Web Designer - Figma, adobe photoshop etc...
 
