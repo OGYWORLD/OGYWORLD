@@ -4,4 +4,4 @@
 
 🎆 Game Developer - Unity
 
-🥔Kangwon National University, Undergraduate
+🥔Kangwon National University, Department of Computer Engineering Undergraduate
