@@ -1,4 +1,4 @@
-🎆 Game Developer - Unity, Unreal(4,5)
+🎆 Game Developer - Unity, Unreal(UE4, UE5)
 
 🎨 Game Desinger - Background, Effect Asset (Unity, Unreal)
 
