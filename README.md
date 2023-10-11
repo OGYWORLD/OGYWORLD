@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&text=TRY%20SAY%20"HELLO%20OZY"&animation=twinkling&color=gradient)
   
-*💖Despite Everything, It's still you💖*
+<b>*💖Despite Everything, It's still you💖*</b>
   
 <br>
 
@@ -10,6 +10,8 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OGYWORLD&show_icons=true&theme=radical)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ogy1004)](https://solved.ac/ogy1004/)
 <hr/>
 
 <b>🥔Bachelor’s Degree in Computer Engneering, Kangwon National University (2019-2023)🥔</b>
