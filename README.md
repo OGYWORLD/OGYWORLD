@@ -9,9 +9,7 @@
 <img src="https://img.shields.io/badge/Unreal4-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/Unreal5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OGYWORLD&show_icons=true&theme=radical)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ogy1004)](https://solved.ac/ogy1004/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OGYWORLD&show_icons=true&theme=radical) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ogy1004)](https://solved.ac/ogy1004/)
 
 <hr/>
 
