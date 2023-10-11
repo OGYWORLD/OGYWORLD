@@ -14,12 +14,14 @@
 
 🥔Bachelor’s Degree in Computer Engneering, Kangwon National University (2019-2023)🥔
 
+<hr/>
+
 OZY, The Potato... I develop games (usually, UE4 and UE5)
 <br>
 And also I can develop Web (Frontend-React), compose music etc...
 
 <br>
-<br>
+<hr/>
 I really love colleting Retro Consoles and Retro Console Games (Almost Nintendo)
 
 </div>
