@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&text=TRY%20SAY%20"HELLO%20OZY"&animation=twinkling&color=gradient)
-
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=soft&text=TRY%20SAY%20"HELLO%20OZY"&animation=twinkling&color=gradient)
   
 *Despite Everything, It's still you*
   
@@ -11,4 +11,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OGYWORLD&show_icons=true&theme=radical)
 <hr/>
+
 </div>
+🥔 B.S. in Computer Engineering from Kangwon National University in 2023
