@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&height=20&color=gradient)
-![header](https://capsule-render.vercel.app/api?type=soft&text=TRY%20SAY%20"HELLO%20OZY"&animation=twinkling&color=gradient&stroke=F9F0FF)
+![header](https://capsule-render.vercel.app/api?type=soft&text=TRY%20SAY%20"HELLO%20OZY"&animation=twinkling&color=gradient)
 
 *Finally, Developing Games*
 
