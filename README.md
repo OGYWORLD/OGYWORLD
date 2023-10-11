@@ -18,6 +18,8 @@ OZY, The Potato... I develop games (usually, UE4 and UE5)
 <br>
 And also I can develop Web (Frontend-React), compose music etc...
 
+<br>
+<br>
 I really love colleting Retro Consoles and Retro Console Games (Almost Nintendo)
 
 </div>
