@@ -20,10 +20,10 @@
 <br>
 Hi, I'm OZY! I develop games (usually, UE4 and UE5)
 <br>
-And also I can develop Web (Frontend-React), compose music etc...
+And also I can do developing Web (Frontend-React), composing music, editing photos, making videos etc...
 
 <br>
 <hr/>
 I really love colleting Retro Consoles and Retro Console Games (Almost Nintendo)
-Also I interested in Dystopian & Cyberpunk
+Also I interested in Dystopian & Cyberpunk🌃
 </div>
