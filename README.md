@@ -40,6 +40,6 @@ I really love colleting Retro Consoles and Retro Console Games (Almost Nintendo)
 Also I interested in Dystopian & Cyberpunk🌃
 
 <hr/>
-인디겜이랑 예술영화 덕질하면서 영상 편집하다가 성우덕질하다가 닌텐도 덕질하다가 마블 덕질하다가 SuperWhoLock + Hannibal 덕질하다가 강대 컴공와서 성우 동아리 하다가 뮤지컬 덕질하면서 뮤지컬 동아리 만들었다가 겜만들다가 웹만들다가 학연생하면서 bioinfo했다가 대학원 납치됐다가 탈출했다가 다시 겜만들고 있습니다..^^ 요즘은 역재 덕질합니다...^^^(2023.10기준)
+인디겜이랑 예술영화 덕질하면서 영상 편집하다가 성우덕질하다가 닌텐도 덕질하다가 마블 덕질하다가 SuperWhoLock + Hannibal 덕질하다가 강대 컴공와서 성우 동아리 하다가 뮤지컬 덕질하면서 뮤지컬 동아리 만들었다가 겜만들다가 웹만들다가 학연생하면서 bioinfo했다가 대학원 납치됐다가 일드 덕질했다가 탈출했다가 다시 겜만들고 있습니다..^^ 요즘은 역재 덕질합니다...^^^(2023.10기준)
 
 </div>
