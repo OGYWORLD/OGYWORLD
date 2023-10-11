@@ -12,9 +12,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OGYWORLD&show_icons=true&theme=radical)
 <hr/>
 
-Bachelor’s Degree in Computer Engneering, Kangwon National University (2019-2023)
+🥔Bachelor’s Degree in Computer Engneering, Kangwon National University (2019-2023)🥔
 
 OZY, The Potato... I develop games (usually, UE4 and UE5)
+<br>
 And also I can develop Web (Frontend-React), compose music etc...
 
 I really love colleting Retro Consoles and Retro Console Games (Almost Nintendo)
