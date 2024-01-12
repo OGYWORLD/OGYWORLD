@@ -29,15 +29,15 @@
 
 <h2>🤔OZY, The Potato🤔 </h2>
 <br>
-<h3>Hi, I'm OZY! I develop games (usually, UE4 and UE5)</h3>
+Hi, I'm OZY! I develop games (usually, UE4 and UE5)
 <br>
-<h3>And also I can do developing Web (Frontend-React), composing music, editing photos, making videos etc...</h3>
+And also I can do developing Web (Frontend-React), composing music, editing photos, making videos etc...
 
 <hr/>
 
-<h3>I really love colleting Retro Consoles and Retro Console Games (Almost Nintendo)</h3>
+I really love colleting Retro Consoles and Retro Console Games (Almost Nintendo)
 <br>
-<h3>Also I interested in Dystopian & Cyberpunk🌃</h3>
+Also I interested in Dystopian & Cyberpunk🌃
 
 <hr/>
 
