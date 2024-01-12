@@ -11,33 +11,33 @@
 
 <br>
 
-<b>📊GitHub Stats📊</b>
+<h2>📊GitHub Stats📊</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OGYWORLD&show_icons=true&theme=radical)
 
 <br>
 
-<b>💻Solved.ac Profile💻</b>
+<h2>💻Solved.ac Profile💻</h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ogy1004)](https://solved.ac/ogy1004/)
 
 <hr/>
 
-<b>🥔Bachelor’s Degree in Computer Engneering, Kangwon National University (2019-2023)🥔</b>
+<h3>🥔Bachelor’s Degree in Computer Engneering, Kangwon National University (2019-2023)🥔</h3>
 
 <hr/>
 
-<b>🤔OZY, The Potato🤔 </b>
+<h2>🤔OZY, The Potato🤔 </h2>
 <br>
-Hi, I'm OZY! I develop games (usually, UE4 and UE5)
+<h3>Hi, I'm OZY! I develop games (usually, UE4 and UE5)</h3>
 <br>
-And also I can do developing Web (Frontend-React), composing music, editing photos, making videos etc...
+<h3>And also I can do developing Web (Frontend-React), composing music, editing photos, making videos etc...</h3>
 
 <hr/>
 
-I really love colleting Retro Consoles and Retro Console Games (Almost Nintendo)
+<h3>I really love colleting Retro Consoles and Retro Console Games (Almost Nintendo)</h3>
 <br>
-Also I interested in Dystopian & Cyberpunk🌃
+<h3>Also I interested in Dystopian & Cyberpunk🌃</h3>
 
 <hr/>
 
