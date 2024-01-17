@@ -44,7 +44,12 @@
 </div>
 
 # 🤔OZY, The Potato🤔
-Hi, I'm OZY! I develop games (usually, UE4 and UE5)<br>And also I can do developing Web (Frontend-React), composing music, editing photos, making videos etc...<br><br>I really love colleting Retro Consoles and Retro Console Games (Almost Nintendo)<br>Also I interested in Dystopian & Cyberpunk🌃
+<b>Hi, I'm OZY! I develop games (usually, UE4 and UE5)<br>And also I can do developing Web (Frontend-React), composing music, editing photos, making videos etc...</b>
+<br>
+<b>I really love colleting Retro Consoles and Retro Console Games (Almost Nintendo)<br>Also I interested in Dystopian & Cyberpunk🌃</b>
+<br>
+<br>
+🥔Bachelor’s Degree in Computer Engneering, Kangwon National University (2019-2023)🥔
 
 
 # 💻 Tech Stack:
