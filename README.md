@@ -7,7 +7,7 @@
 # 🤔OZY, The Potato🤔
 <b>Hi, I'm OZY! I develop games (usually, UE4 and UE5)<br>And also I can do developing Web (Frontend-React), composing music, editing photos, making videos etc...</b>
 <br>
-<b>I really love colleting Retro Consoles and Retro Console Games (Almost Nintendo)<br>Also I interested in Dystopian & Cyberpunk🌃</b>
+<b>I really love collect Retro Consoles and Retro Console Games (Almost Nintendo)<br>Also I interested in Dystopian & Cyberpunk🌃</b>
 <br>
 <br>
 <b>🥔Bachelor’s Degree in Computer Engneering, Kangwon National University (2019-2023)🥔</b>
