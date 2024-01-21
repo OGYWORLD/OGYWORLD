@@ -11,7 +11,7 @@
 <br>
 <br>
 <b>🥔Bachelor’s Degree in Computer Engneering, Kangwon National University (2019-2023)🥔</b>
-<hr/>
+<br/>
 <b>🦅Master's Degree in Computer Science, Yonsei University (2023-Taking a semester off)🦅</b>
 
 
