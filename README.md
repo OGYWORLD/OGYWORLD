@@ -22,11 +22,14 @@
 # 💻 Tech Stack:
 <img src="https://img.shields.io/badge/Unreal4-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/Unreal5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+
 # 👩‍💻 Solved.ac Profile:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ogy1004)](https://solved.ac/ogy1004/)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ogyworld&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ogyworld&theme=tokyonight&hide_border=false)<br/>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ogyworld&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
