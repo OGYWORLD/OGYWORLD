@@ -3,7 +3,8 @@
 <h3>*💖Despite Everything, It's still you💖*</h3>
 
 <br>
-### 📖Notion📖 ###
+
+## 📖Notion📖 ##
 
 <a href="https://ozyworld.notion.site/OZYWORLD-1ac9a90c8cc54da68f7a424402a99040?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <br>
