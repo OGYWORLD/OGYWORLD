@@ -18,6 +18,7 @@
 | **Research activities** | 2021.7 ~ 2022.12               | Undergraduate Research Students           | **Kangwon National Univ. Biomedical Data Science LAB** |
 | **Education**           | 2023.1 ~ Taking a semester off | Graduate(Master course) Research Students | **Yonsei University**                                  |
 
+<br>
 
 # 💻 Tech Stack:
 <img src="https://img.shields.io/badge/Unreal4-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/Unreal5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
