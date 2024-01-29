@@ -10,9 +10,13 @@
 <b>I really love collect Retro Consoles and Retro Console Games (Almost Nintendo)<br>Also I interested in Dystopian & Cyberpunk🌃</b>
 <br>
 <br>
-<b>🥔Bachelor’s Degree in Computer Engneering, Kangwon National University (2019-2023)🥔</b>
-<br/>
-<b>🦅Master's Degree in Computer Science, Yonsei University (2023-Taking a semester off)🦅</b>
+
+# 💫Career💫
+| **Type**                | **Date**                       | **Contens**                               | **Organization**                                       |   |
+|-------------------------|--------------------------------|-------------------------------------------|--------------------------------------------------------|---|
+| **Education**           | 2019.3 ~ 2023.2                | Department of Computer Engineering        | **Kangwon National University**                        |   |
+| **Research activities** | 2021.7 ~ 2022.12               | Undergraduate Research Students           | **Kangwon National Univ. Biomedical Data Science LAB** |   |
+| **Education**           | 2023.1 ~ Taking a semester off | Graduate(Master course) Research Students | **Yonsei University**                                  |   |
 
 
 # 💻 Tech Stack:
