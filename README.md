@@ -5,6 +5,15 @@
 
 <br>
 
+# 👩‍💻 Solved.ac Profile:
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ogy1004)](https://solved.ac/ogy1004/)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ogyworld&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ogyworld&theme=tokyonight&hide_border=false)<br/>
+
+<br>
+
 # 🤔OZY, The Potato🤔
 <b>Hi, I'm OZY! I develop games (usually, UE4 and UE5)<br>And also I can do developing Web (Frontend-React), composing music, editing photos, making videos etc...</b>
 <br>
