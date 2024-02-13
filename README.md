@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&text=TRY%20SAY%20"HELLO%20OZY"&animation=twinkling&color=gradient)
   
 <h3>*💖Despite Everything, It's still you💖*</h3>
-<img src = {./com.png}/>
+<img src = {com.png}/>
 
 <br/>
 
