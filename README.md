@@ -14,14 +14,6 @@
 
 <br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ogyworld&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-# 👩‍💻 Solved.ac Profile:
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ogy1004)](https://solved.ac/ogy1004/)
-
-<br>
-
 # 💫Career💫
 | **Type**                | **Date**                       | **Contens**                               | **Organization**                                       |
 |-------------------------|--------------------------------|-------------------------------------------|--------------------------------------------------------|
@@ -31,3 +23,8 @@
 
 <br>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ogyworld&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+# 👩‍💻 Solved.ac Profile:
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ogy1004)](https://solved.ac/ogy1004/)
