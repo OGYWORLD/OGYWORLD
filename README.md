@@ -1,7 +1,3 @@
-![com](https://github.com/OGYWORLD/Baekjoon_CPP/assets/76478579/7aadb323-c518-4999-9d58-ba8ec943c781)
-
-<br/>
-
 # 🤔OZY, The Potato🤔
 <b>Hi, I'm OZY! I develop games (usually, UE4 and UE5)<br>And also I can do developing Web (Frontend-React), composing music, editing photos, making videos etc...</b>
 <br>
