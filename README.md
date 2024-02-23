@@ -23,4 +23,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=ogyworld&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 # 👩‍💻 Solved.ac Profile:
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ogy1004})](https://solved.ac/{ogy1004})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ogy1004)](https://solved.ac/ogy1004)
