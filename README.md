@@ -6,7 +6,6 @@
 <br>
 <b>I really love collect Retro Consoles and Retro Console Games (Almost Nintendo)<br>Also I interested in Dystopian & Cyberpunk🌃</b>
 <br>
-<br>
 
 <br>
 
