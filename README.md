@@ -12,9 +12,9 @@
 <br/>
 <br/>
   
-[<img src = "https://github.com/OGYWORLD/Baekjoon_CPP/assets/76478579/230f4608-64d2-4109-8782-1dc7bc5fafb8" width="20%">](https://ozyworld.notion.site/OZYWORLD-1ac9a90c8cc54da68f7a424402a99040?pvs=4)
-[<img src = "https://github.com/OGYWORLD/Baekjoon_CPP/assets/76478579/efed5372-0afc-4825-bf24-6cea423b275b" width="20%">](https://ozyworld.notion.site/Daily-Planner-83bff81056c6427dbebe22356d161503?pvs=4)
-[<img src = "https://github.com/OGYWORLD/Baekjoon_CPP/assets/76478579/1679ae32-3b93-4204-84e1-4486c908eec3" width="20%">](https://ozyworld.notion.site/7f1527060eac44989d904fbdcc207ced?pvs=4)
+[<img src = "https://github.com/OGYWORLD/Baekjoon_CPP/assets/76478579/4a8a2701-620a-414c-97da-da0feafb9437" width="20%">](https://ozyworld.notion.site/OZYWORLD-1ac9a90c8cc54da68f7a424402a99040?pvs=4)
+[<img src = "https://github.com/OGYWORLD/Baekjoon_CPP/assets/76478579/a157e9f4-76a7-4c08-b438-adf155ec1736" width="20%">](https://ozyworld.notion.site/Daily-Planner-83bff81056c6427dbebe22356d161503?pvs=4)
+[<img src = "https://github.com/OGYWORLD/Baekjoon_CPP/assets/76478579/15d77077-35b7-424c-a1fa-7bc2fd028932" width="20%">](https://ozyworld.notion.site/7f1527060eac44989d904fbdcc207ced?pvs=4)
 
 <br/>
 <br/>
