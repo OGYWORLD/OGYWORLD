@@ -5,10 +5,8 @@
 <div align=center> 
   
 [<img src = "https://github.com/OGYWORLD/Baekjoon_CPP/assets/76478579/230f4608-64d2-4109-8782-1dc7bc5fafb8" width="20%">](https://ozyworld.notion.site/OZYWORLD-1ac9a90c8cc54da68f7a424402a99040?pvs=4)
-  
-<br/>
 
-Notion 노션 ノーション
+[![1](https://github.com/OGYWORLD/Baekjoon_CPP/assets/76478579/88253f29-6e16-4d5d-95fa-f7ab3a100524)](https://solved.ac/profile/ogy1004)
 
 </div>
 
