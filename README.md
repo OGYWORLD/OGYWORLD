@@ -2,8 +2,13 @@
 
 <br/>
 
-[<img src = "https://github.com/OGYWORLD/Baekjoon_CPP/assets/76478579/230f4608-64d2-4109-8782-1dc7bc5fafb8" width="10%">](https://ozyworld.notion.site/OZYWORLD-1ac9a90c8cc54da68f7a424402a99040?pvs=4)
-<- Why don't you visit my Notion?
+<div align=center> 
+[<img src = "https://github.com/OGYWORLD/Baekjoon_CPP/assets/76478579/230f4608-64d2-4109-8782-1dc7bc5fafb8" width="1=20%">](https://ozyworld.notion.site/OZYWORLD-1ac9a90c8cc54da68f7a424402a99040?pvs=4)
+  
+<br/>
+
+Notion 노션 ノーション
+</div>
 
 <img src="https://img.shields.io/badge/Unreal4-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/Unreal5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
 
