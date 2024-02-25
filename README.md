@@ -14,7 +14,6 @@
 |-------------------------|--------------------------------|-------------------------------------------|--------------------------------------------------------|
 | **Education**           | 2019.03 ~ 2023.02                | Department of Computer Engineering        | **Kangwon National University**                        |
 | **Research activities** | 2021.07 ~ 2022.12               | Undergraduate Research Students           | **Kangwon National Univ. Biomedical Data Science LAB** |
-| **Education**           | 2023.01 ~ Taking a semester off | Graduate(Master course) Research Students | **Yonsei University**                                  |
 
 <br>
 
