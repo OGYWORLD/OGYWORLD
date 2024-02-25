@@ -1,12 +1,10 @@
-![OpenImage](https://github.com/OGYWORLD/Baekjoon_CPP/assets/76478579/fa84a8d3-a499-4a60-9c9e-0e4b25057c3d)
+<div align=center> 
+
+𝑯𝑬𝑳𝑳𝑶, 𝑰'𝒎 𝑮𝑯𝑨𝑾𝑶𝑶𝑹𝑼.
 
 <br/>
-
-<div align=center> 
   
 [<img src = "https://github.com/OGYWORLD/Baekjoon_CPP/assets/76478579/230f4608-64d2-4109-8782-1dc7bc5fafb8" width="20%">](https://ozyworld.notion.site/OZYWORLD-1ac9a90c8cc54da68f7a424402a99040?pvs=4)
-
-[<img src = "https://github.com/OGYWORLD/Baekjoon_CPP/assets/76478579/88253f29-6e16-4d5d-95fa-f7ab3a100524" width="20%">](https://solved.ac/ogy1004)
 
 </div>
 
