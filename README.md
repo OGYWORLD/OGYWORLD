@@ -7,7 +7,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Unreal5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" width="12%"> <img src="https://img.shields.io/badge/Unreal4-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" width="12%">
+<img src="https://img.shields.io/badge/Unreal5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" width="13%"> <img src="https://img.shields.io/badge/Unreal4-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" width="13%">
 
 <br/>
 <br/>
