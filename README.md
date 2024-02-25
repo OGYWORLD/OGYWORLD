@@ -19,9 +19,13 @@
 <br/>
 <br/>
 
-And ... 𝘚𝘰𝘭𝘷𝘦𝘥.𝘈𝘊 𝘗𝘳𝘰𝘧𝘪𝘭𝘦
-
+<details>
+<summary>
+    
+#### 𝘚𝘰𝘭𝘷𝘦𝘥.𝘈𝘊 𝘗𝘳𝘰𝘧𝘪𝘭𝘦
+</summary>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ogy1004)](https://solved.ac/ogy1004)
+</details>
 
 </div>
