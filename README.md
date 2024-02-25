@@ -4,7 +4,7 @@
 
 <div align=center> 
   
-[<img src = "https://github.com/OGYWORLD/Baekjoon_CPP/assets/76478579/230f4608-64d2-4109-8782-1dc7bc5fafb8" width="1=20%">](https://ozyworld.notion.site/OZYWORLD-1ac9a90c8cc54da68f7a424402a99040?pvs=4)
+[<img src = "https://github.com/OGYWORLD/Baekjoon_CPP/assets/76478579/230f4608-64d2-4109-8782-1dc7bc5fafb8" width="20%">](https://ozyworld.notion.site/OZYWORLD-1ac9a90c8cc54da68f7a424402a99040?pvs=4)
   
 <br/>
 
