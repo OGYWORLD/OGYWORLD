@@ -1,5 +1,7 @@
 <div align=center> 
 
+<img src="https://github.com/OGYWORLD/Baekjoon_CPP/assets/76478579/6a02d9bc-0b36-4942-9a5b-5da746b157eb" width="15%">
+
 ### 𝙷𝙴𝙻𝙻𝙾, 𝙸'𝚖 𝙶𝙷𝙰𝚆𝙾𝙾𝚁𝚄.
 <b> Game Client Programmer </b>
 <br/>
