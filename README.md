@@ -1,7 +1,5 @@
 <div align=center> 
 
-<img src="https://github.com/OGYWORLD/Baekjoon_CPP/assets/76478579/3719e35f-f6b3-4f60-afc7-13756cd4f798" width="20%">
-
 ### 𝙷𝙴𝙻𝙻𝙾, 𝙸'𝚖 𝙶𝙷𝙰𝚆𝙾𝙾𝚁𝚄.
 가을 ガウル
 <br/>
