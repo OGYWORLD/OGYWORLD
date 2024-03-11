@@ -3,7 +3,6 @@
 ### 𝙷𝙴𝙻𝙻𝙾, 𝙸'𝚖 𝙶𝙷𝙰𝚆𝙾𝙾𝚁𝚄.
 가을 ガウル
 <br/>
-<br/>
 
 <b> Game Client Programmer </b>
 <br/>
