@@ -3,7 +3,6 @@
 ### 𝙷𝙴𝙻𝙻𝙾, 𝙸'𝚖 𝙶𝙷𝙰𝚆𝙾𝙾𝚁𝚄.
 가을 ガウル
 <br/>  
-<br/>
 
 <b> Game Client Programmer </b>
 <br/>
@@ -11,7 +10,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Unity-0E1128?style=for-the-badge&logo=unity&logoColor=white" width="10%"> <img src="https://img.shields.io/badge/Unreal5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" width="12%"> <img src="https://img.shields.io/badge/Unreal4-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" width="12%">
+<img src="https://img.shields.io/badge/Unity-0E1128?style=for-the-badge&logo=unity&logoColor=white" width="11%"> <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" width="12%">
 
 <br/>
 <br/>
