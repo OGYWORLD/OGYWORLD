@@ -1,7 +1,7 @@
 <div align=center> 
 
 ### 𝙷𝙴𝙻𝙻𝙾, 𝙸'𝚖 𝙶𝙷𝙰𝚆𝙾𝙾𝚁𝚄.
-가을 ガウル
+가을 ガウル 
 <br/>
 
 <b> Game Client Programmer </b>
