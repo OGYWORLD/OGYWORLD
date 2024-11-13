@@ -1,12 +1,11 @@
 <div align=center> 
 
-### 𝙷𝙴𝙻𝙻𝙾, 𝙸'𝚖 𝙶𝙷𝙰𝚆𝙾𝙾𝚁𝚄.
-가을 ガウル
+### ​ʜᴇʟʟᴏ, ɪ ᴀᴍ ʀᴇᴀʟ \* 🇦​​🇺​​🇹​​🇺​​🇲​​🇳​ \*
+오가을
 <br/> 
 
-<b> Game Client Programmer </b>
+<b> Unity Client Programmer </b>
 <br/>
-ゲームクライアントプログラマー
 
 <br/>
 
