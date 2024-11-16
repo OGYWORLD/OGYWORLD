@@ -10,6 +10,10 @@
 
 <img src="https://img.shields.io/badge/Unity-0E1128?style=for-the-badge&logo=unity&logoColor=white" width="10%">
 
+<img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat&logoColor=white" width="4%">
+
+<img src="https://img.shields.io/badge/C++-0E1128?style=for-the-badge&logo=c++&logoColor=white" width="6%">
+
 <br/>
 <br/>
   
