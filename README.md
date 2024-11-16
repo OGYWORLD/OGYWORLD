@@ -6,7 +6,6 @@
 ### Unity Client Programmer
 <br/>
 
-<br/>
 
 <img src="https://img.shields.io/badge/Unity-0E1128?style=for-the-badge&logo=unity&logoColor=white" width="10%">
 
@@ -14,6 +13,7 @@
 
 <img src="https://img.shields.io/badge/C++-0E1128?style=for-the-badge&logo=c++&logoColor=white" width="6%">
 
+<br/>
 <br/>
 <br/>
   
