@@ -1,6 +1,6 @@
 <div align=center> 
 
-# ​ʜᴇʟʟᴏ, ɪ ᴀᴍ ʀᴇᴀʟ \* 🇦​​🇺​​🇹​​🇺​​🇲​​🇳​ \*
+# 🍁 ​ʜᴇʟʟᴏ, ɪ ᴀᴍ ʀᴇᴀʟ \* 🇦​​🇺​​🇹​​🇺​​🇲​​🇳​ \* 🍁
 ### 오가을
 
 ### Unity Game Client Programmer
@@ -12,10 +12,6 @@
 <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat&logoColor=white" width="4%">
 
 <img src="https://img.shields.io/badge/C++-0E1128?style=for-the-badge&logo=c++&logoColor=white" width="6%">
-
-<br/>
-<br/>
-<br/>
 
 <br/>
 <br/>
