@@ -1,6 +1,6 @@
 <div align=center> 
 
-# 🍁 ​ʜᴇʟʟᴏ, ɪ ᴀᴍ ʀᴇᴀʟ \* AUTUMN \* 🍁
+# 🍁
 ### 오가을
 
 ### Unity Game Client Programmer
