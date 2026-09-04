@@ -10,7 +10,7 @@
 <hr/>
 
 ### 💼 Experience
-<b>Com2uS — KBO Live Studio Client Team, Unity Client Game Programmer</b><br/>
+<b>Com2uS — KBO Live Studio Client Team, Unity Game Client Programmer</b><br/>
 𝘋𝘦𝘤 2024 – 𝘗𝘳𝘦𝘴𝘦𝘯𝘵<br/>
 <br/>
 
